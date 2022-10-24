@@ -12,7 +12,16 @@ Todos os posts que aparecem no link abaixo, foram criados a menor quantidade de 
 
 Além disso, cada componente dos posts foi desenvolvido separadamente.
 
+## Sugestões 
 
+Para as sugestões do Instagram, utilizei a API Users do Github para coletar o perfil dos meus seguidores e sugeri-los na aba Sugestões do meu Instagram.
+
+## Likes 
+
+Ao tentar descobrir como eu poderia fazer o botão do like do Instagram, descobri a MUI CORE, uma biblioteca de componentes React UI que me auxiliou na hora de criar o toggle do meu botão de gostei. Além de, claro, utilizar o React Icons para outros componentes no projeto.
+
+## Resultado Final
+![image](https://user-images.githubusercontent.com/110692090/197645824-f1dcbe61-e42c-4169-9acf-57d8625d17a6.png)
 
 
 https://react-instagram-project.vercel.app/
