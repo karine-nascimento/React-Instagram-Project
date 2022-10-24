@@ -6,7 +6,7 @@ Para isso, construi o layout divido em componentes, como é popularmentemente fe
 
 ## Posts
 
-Todos os posts que aparecem no link abaixo, foram criados a menor quantidade de código possível. A minha ideia foi utilizar a function(props) para editar o conteúdo que viria em cada post, evitando a quantidade desnecessária de HTML.
+Todos os posts foram criados utilizando a menor quantidade de código possível. A minha ideia foi utilizar a function(props) para editar o conteúdo que viria em cada post, evitando a quantidade desnecessária de HTML.
 
 ![image](https://user-images.githubusercontent.com/110692090/197644050-cec2d53d-e9f5-4183-b089-d0450b95cf35.png)
 
@@ -14,7 +14,7 @@ Além disso, cada componente dos posts foi desenvolvido separadamente.
 
 ## Sugestões 
 
-Para as sugestões do Instagram, utilizei a API Users do Github para coletar o perfil dos meus seguidores e sugeri-los na aba Sugestões do meu Instagram.
+Para as sugestões do Instagram, utilizei a API Users do Github para coletar o perfil dos meus seguidores e sugeri-los na aba Sugestões.
 ![image](https://user-images.githubusercontent.com/110692090/197645977-536ad896-a369-4b12-9358-6a0124cea362.png)
 
 
