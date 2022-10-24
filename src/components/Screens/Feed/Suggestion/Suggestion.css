@@ -1,0 +1,116 @@
+
+.suges-size {
+    width: 319px;
+    height: 562px;
+    margin-top: 18px;
+}
+.header-suggestion {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.header-suggestion img {
+    height: 56px ;
+    width: 56px ;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.user-infos-suggestion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.user-infos-suggestion .infos span {
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.user-infos-suggestion .infos p {
+    font-size: 13px;
+    color: var(--secondary);
+}
+
+.user-infos-suggestion .switch {
+    font-weight: 500;
+    color: var(--quartary);
+    cursor: pointer;
+}
+
+.header-main-sugest {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 20px 0 10px 0;
+}
+
+.header-main-sugest p {
+    font-size: 15px;
+    color: var(--secondary);
+    font-weight: 500;
+
+}
+
+.header-main-sugest span {
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.user-suggest {
+    margin-top: 5px;
+}
+
+.infos-sgst img {
+width: 30px;
+height: 30px;
+border-radius: 50%;
+cursor: pointer;
+}
+
+.infos-sgst {
+    margin: 10px 0 0 5px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex: 1;
+}
+
+.info-suggest {
+    flex: 1;
+}
+
+.info-suggest span {
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.info-suggest p {
+    font-size: 12px;
+    color: var(--secondary);
+    margin-top: 2px;
+}
+
+.infos-sgst .follow {
+    font-size: 13px;
+    cursor: pointer;
+    color: var(--quartary);
+    font-weight: 500;
+}
+
+.footer-suggest {
+    margin-top: 25px;
+    flex: 1;
+}
+
+.footer-suggest p {
+    font-size: 12px;
+    color: var(--tertiary);
+    margin-bottom: 15px;
+    cursor: pointer;
+}

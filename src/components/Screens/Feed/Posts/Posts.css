@@ -1,0 +1,122 @@
+.separar {
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+
+
+.header-post {
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    justify-content: space-between;
+}
+
+.infos-post {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.infos-post p {
+    color: rgb( 38, 38, 38);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.infos-post img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.img-post img {
+    width: 100%;
+    max-height: 586.5px;
+    object-fit: cover;
+}
+
+.footer-post {
+    padding: 10px 15px;
+}
+
+.engagement-post {
+    display: flex;
+    justify-content: space-between;
+}
+
+.engagement-post .icons-1 {
+    display: flex;
+    gap: 16px;
+}
+
+.icons {
+    cursor: pointer;
+}
+
+.likes {
+    margin-top: 6px;
+}
+
+.likes span {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    color: rgb( 38, 38, 38);
+}
+
+.legend {
+    margin: 6px 0px 3px;
+}
+
+.legend span.user {
+    color: rgb( 38, 38, 38);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.legend span.legenda {
+    color: rgb( 38, 38, 38);
+    font-weight: 400;
+    line-height: 18px;
+    font-size: 14px;
+}
+
+.time-post time {
+    line-height: 12px;
+    font-size: 10px;
+    font-weight: 400;
+    color: rgb(142,142,142);
+}
+
+.comment {
+    border-top: 1px solid var(--border-secondary);
+    margin-top: 8px;
+
+    display: flex;
+}
+
+.fake-comment {
+    padding-left: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+
+    flex: 1;
+    gap: 16px;
+}
+
+.fake-comment input {
+    font-size: 16px;
+}
+
+.comment button {
+    color: var(--quartary);
+    font-weight: 500;
+    cursor: pointer;
+    padding-right: 16px;
+}
