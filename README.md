@@ -4,7 +4,7 @@ Nesse projeto, utilizei React.JS para recrear a interface de uma famosa rede soc
 Para isso, construi o layout divido em componentes, como é popularmentemente feito atualmente no mercado. Foi uma experiência nova, desconstruindo tudo aquilo que havia praticado até agora para fazer de uma maneira diferente, já que até o momento, havia desenvolvido telas como um só grande componente.
 
 ## Link do Projeto no LinkedIn:
-<a href="https://www.linkedin.com/posts/karine-nascimentohs_linkedin-javascript-css-activity-6977028956436750336-kuIa?utm_source=share&utm_medium=member_desktop" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/posts/karine-nascimentohs_instagram-ui-react-activity-6990659612202930176-e6Yn?utm_source=share&utm_medium=member_desktop" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 ## Posts
